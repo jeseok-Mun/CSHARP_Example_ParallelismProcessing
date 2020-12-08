@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CSHARP_ParallelismProcessing.Properties
+namespace CSHARP_Example_ParallelismProcessing.Properties
 {
 
 

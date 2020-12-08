@@ -1,7 +1,7 @@
-﻿<Application x:Class="CSHARP_ParallelismProcessing.App"
+﻿<Application x:Class="CSHARP_Example_ParallelismProcessing.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:CSHARP_ParallelismProcessing"
+             xmlns:local="clr-namespace:CSHARP_Example_ParallelismProcessing"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

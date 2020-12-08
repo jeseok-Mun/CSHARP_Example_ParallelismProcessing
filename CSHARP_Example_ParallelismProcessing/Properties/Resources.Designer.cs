@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CSHARP_ParallelismProcessing.Properties
+namespace CSHARP_Example_ParallelismProcessing.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace CSHARP_ParallelismProcessing.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("CSHARP_ParallelismProcessing.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("CSHARP_Example_ParallelismProcessing.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

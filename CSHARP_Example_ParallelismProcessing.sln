@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP_ParallelismProcessing", "CSHARP_ParallelismProcessing\CSHARP_ParallelismProcessing.csproj", "{B5FADECC-D96C-4E85-B2AE-149F4B786E9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP_Example_ParallelismProcessing", "CSHARP_Example_ParallelismProcessing\CSHARP_Example_ParallelismProcessing.csproj", "{B5FADECC-D96C-4E85-B2AE-149F4B786E9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
