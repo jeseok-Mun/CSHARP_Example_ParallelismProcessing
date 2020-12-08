@@ -1,0 +1,14 @@
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\bin\Debug\CS_ParallelismProcessing.exe.config
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\bin\Debug\CS_ParallelismProcessing.exe
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\bin\Debug\CS_ParallelismProcessing.pdb
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing.csprojAssemblyReference.cache
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\MainWindow.g.cs
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\App.g.cs
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing_MarkupCompile.cache
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing_MarkupCompile.lref
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\MainWindow.baml
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing.g.resources
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing.Properties.Resources.resources
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing.csproj.GenerateResource.cache
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing.exe
+C:\Users\JS\Source\Repos\CS_ParallelismProcessing\CS_ParallelismProcessing\obj\Debug\CS_ParallelismProcessing.pdb
